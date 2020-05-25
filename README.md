@@ -1,6 +1,11 @@
-# Reverse Shell Made In C++ , C#
+# {Kinda} Undetected Reverse shell (For Testing Purposes)
 
+_Default Host And Port_
+`127.0.0.1:9110`
+## Pre Compiled Version For Windows [x64]
+## Pre Compiled Version For Windows [x32]
 
-## Made For Fun , Test It If You'd Like 
+## Compile For Linux With mingw-gcc or g++
 
-## It's Works For Both Windows And Linux
+# Author: 
+__r2dr0dn__
